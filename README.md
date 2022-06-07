@@ -7,3 +7,5 @@ Edit usernames.csv to have one username per row.
 course.awk generates the course copy feed file.  Change headers and rows accordingly.
 membership.awk generates the course membership (instructor based on username)
 node.awk generates a Hierarchy feed file.  I add all Ultra courses to an "Ultra" node, for Ultra specific tools access.
+
+Run Ultra.sh, and when completed, it puts a copy of the username file in processed_files.
